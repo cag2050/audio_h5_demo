@@ -1,5 +1,7 @@
 # audio_h5_demo
 
+VueAudio.vue 参考：https://github.com/shershen08/vuejs-sound-player
+
 > A Vue.js project
 
 ## Build Setup
